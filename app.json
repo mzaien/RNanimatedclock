@@ -3,7 +3,7 @@
     "name": "RNanimatedclock",
     "slug": "RNanimatedclock",
     "version": "1.0.0",
-
+    "userInterfaceStyle": "automatic",
     "web": {
       "favicon": "./assets/favicon.png"
     },
